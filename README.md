@@ -1,1 +1,2 @@
 # electric_vehicle
+The original premise or the reason why for working with this data is to confirm or deny if Electric Vehicles are becoming more popular or not. Also, I decided, in an effort to keep my skills up, want to perform some exploratory data analysis.
